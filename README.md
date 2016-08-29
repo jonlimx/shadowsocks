@@ -1,12 +1,11 @@
-backup of [https://github.com/shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)  
-copy from [release 2.8.2](https://github.com/shadowsocks/shadowsocks/releases/tag/2.8.2)
+backup of [https://github.com/shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)
 
 shadowsocks
 ===========
 
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
-[![Coverage Status]][Coverage]
+
 
 A fast tunnel proxy that helps you bypass firewalls.
 
